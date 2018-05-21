@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "devDependecies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "laravel-elixir": "^3.0.0"
+  },
+  "devDependencies": {
+    "vueify": "^9.4.1"
+  }
+}

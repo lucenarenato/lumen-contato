@@ -1,0 +1,25 @@
+{
+  "name": "CodeAgenda",
+  "description": "Renato",
+  "main": "",
+  "authors": [
+    "lucenarenato <cpdrenato@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "renatolucena",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "fontawesome": "^4.4.0",
+    "Materialize": "materialize#~0.97.1",
+    "jquery": "^3.3.1"
+  },
+  "private": true
+}
